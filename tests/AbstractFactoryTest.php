@@ -1,10 +1,13 @@
 <?php
 
-use \OhVitorino\DesignPatterns\AbstractFactory\ConcreteFactory1;
-use \OhVitorino\DesignPatterns\AbstractFactory\ConcreteFactory2;
-use \OhVitorino\DesignPatterns\AbstractFactory\Client;
+namespace OhVitorino\DesignPatterns\Test;
 
-class AbstractFactoryTest extends PHPUnit_Framework_TestCase
+
+use OhVitorino\DesignPatterns\AbstractFactory\Client;
+use OhVitorino\DesignPatterns\AbstractFactory\ConcreteFactory1;
+use OhVitorino\DesignPatterns\AbstractFactory\ConcreteFactory2;
+
+class AbstractFactoryTest extends \PHPUnit_Framework_TestCase
 {
     public function testAbstractFactory()
     {

@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by
- * User: brunop
- * Date: 12/04/2016
- * Time: 9:48
- */
 
 namespace OhVitorino\DesignPatterns\AbstractFactory;
 
