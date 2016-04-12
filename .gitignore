@@ -7,3 +7,5 @@ composer.phar
 # composer.lock
 
 # Created by .ignore support plugin (hsz.mobi)
+.idea/
+composer.lock
