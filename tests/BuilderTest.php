@@ -1,6 +1,6 @@
 <?php
 
-namespace OhVitorino\DesignPatterns\Tests;
+namespace OhVitorino\DesignPatterns\Test;
 
 use OhVitorino\DesignPatterns\Builder\ConcreteBuilder1;
 use OhVitorino\DesignPatterns\Builder\ConcreteBuilder2;
