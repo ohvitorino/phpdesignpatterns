@@ -1,0 +1,19 @@
+{
+  "name": "ohvitorino/php_design_patterns",
+  "description": "PHP Design Patterns",
+  "license": "MIT",
+  "keywords": ["php", "design patterns"],
+  "authors": [{
+    "name": "Bruno Vitorino",
+    "email": "bruno.vitorino@gmail.com"
+  }],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "5.3.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "OhVitorino\\DesignPatterns\\": "src"
+    }
+  }
+}
